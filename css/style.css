@@ -220,7 +220,6 @@ section .footer{
 .skills .logos .skill img{
 	width: 60%;
 	height: 8em;
-	box-shadow: 2px 2px 8px 2px rgb(115, 143, 141);
 	border-radius: 50%;
 }
 
