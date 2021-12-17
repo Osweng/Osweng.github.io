@@ -99,22 +99,22 @@ section#home {
 }
 
 section#about {
-  background-color: lightgrey;
+  background-color: black;
 
   font-family: cursive;
 }
 
 section#project {
-  background-color: silver;
+  background-color: dimgray;
 }
 
 section#skill {
-  background-color: darkgray;
+  background-color: gray;
  
 }
 
 section#contact {
-    background-color: gray;  
+    background-color: darkgray;  
     height: 32vh;
   }
 
