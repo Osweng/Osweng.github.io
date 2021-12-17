@@ -249,6 +249,10 @@ section .footer{
   color: white;
 }
 
+.fa-github {
+  background: #400d69;
+  color: white;
+}
 
 .fa-instagram {
   background: #125688;
